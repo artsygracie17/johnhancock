@@ -8,8 +8,15 @@
 }
 .glyphicon {
 	font-size: 25px;
-    margin: 10px;
+  margin: 10px;
 	color: white;
+  float: right;
+}
+#logo {
+  width: 200px;
+  height: 50px;
+  margin-left: 5px;
+  margin-top: 8px;
 }
 .feed-nav {
     margin-top: 100px;
